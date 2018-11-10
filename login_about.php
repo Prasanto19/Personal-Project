@@ -57,9 +57,8 @@
 			<p >We also take this opportunity to thank our whole team for all your ideas, commitment and hard-ship in making this dream a reality. We would also like to thank our friends and well-wishers for all your support and encouragement throughout this project. It is now reasonably safe to say that together we have made this society a slightly better and safer place to live.<br>
 			Thank you and Happy Blood donating!</p>
         <p> 
-		Founders<br>
+		Founder<br>
 		Prashanta Kumar Dey<br>
-		Reajul Haque<br>
 		Comilla University Blood Bank</p>
        
 	</div>
